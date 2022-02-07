@@ -1,0 +1,12 @@
+{
+	"data" : [{"Student": 1, "marks": 6},
+	{ "Student": 2, "marks": 100},
+	{ "Student": 3, "marks": 90},
+	{ "Student": 4, "marks": 55},
+	{ "Student": 5, "marks": 83},
+	{ "Student": 6, "marks": 88},
+	{ "Student": 7, "marks": 91},
+	{ "Student": 8, "marks": 92},
+	{ "Student": 9, "marks": 67},
+	{ "Student": 10, "marks": 73}]
+}
